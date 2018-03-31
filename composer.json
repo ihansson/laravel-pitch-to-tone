@@ -1,0 +1,11 @@
+{
+    "name": "ihansson/pitch-to-tone",
+    "description": "Calculates tone based on pitch",
+    "authors": [
+        {
+            "name": "Ian Hansson",
+            "email": "ian.hansson@gmail.com"
+        }
+    ],
+    "require": {}
+}
